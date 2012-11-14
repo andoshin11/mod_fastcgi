@@ -1,3 +1,7 @@
+mod_fastcgi-SNAP-0910052141
+
+ *) Update to compile against httpd-2.4.3. [Peter Danenberg]
+
 2.4.7
 
  *) *nix: On graceful restart, send SIGTERM, then wait 2sec before 
